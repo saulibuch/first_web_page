@@ -1,1 +1,2 @@
 1) špatně závorky u Printu
+2) print v Pythonu 3 mi dával nový řádek -> nahradit end = ' '
