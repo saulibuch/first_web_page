@@ -1,3 +1,15 @@
 1) comment each line
 2) write down mistakes
 3) read mistakes from previous excercises and try to not make them again
+
+
+Function checklis:
+1) function starts with "def"
+2) name is from characters and _
+3) open ( after function name 
+4) arguments in parenthesis, separated by commas 
+5) arguments are unique
+6) close parenthesis ) and colon at end of line 
+7) indent whole function body by the same space
+8) end indenting after fuction body ends
+
