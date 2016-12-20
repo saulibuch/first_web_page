@@ -1,1 +1,0 @@
-curl --request POST "https://localhost:8443/spas/api/v1/sources/recordings" --insecure -H "Authorization: Basic UkVTVF9VU0VSOjExMTEx" -H "Content-type: application/json" -H "Accept: application/json" -d @"putJSONNAMEhere"
