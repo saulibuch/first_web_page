@@ -1,0 +1,12 @@
+{
+   "recording" : {
+      "id" : "recordingID",
+      "createdDateTime" : "25.07.2016 01:01:01",
+      "source" : "SOURCE_ID",
+      "language" : "CZECH",  ----> option
+      "agent" : "AGENT_ID",  ----> option  
+      "fileWav" : "/recordingName.wav",
+      "fileOpus" : "/recordingName.opus",  ----> option  
+      "urlPlay" : "url to recording"    ----> option
+   }
+}

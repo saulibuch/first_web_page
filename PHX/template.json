@@ -1,0 +1,8 @@
+{
+   "recording" : {
+      "id" : "putIDhere",
+      "createdDateTime" : "putTIMEhere",
+      "source" : "SOURCE_ID",
+      "fileWav" : "putFILENAMEhere",
+   }
+}
