@@ -4,7 +4,7 @@
 from sys import argv
 
 #name arguments
-script, input_file = argv 
+script, vlož_file = argv 
 
 #function to print whole content of file object 
 def print_all(f):
@@ -18,7 +18,7 @@ def print_a_line(line_count, f):
 #
 
 #open file to file object
-current_file = open(input_file)
+current_file = open(vlož_file)
 
 print ("First let's print the whole file:\n")
 
@@ -37,10 +37,10 @@ current_line = 1
 #print first line, as cursor is at the beginning of the file 
 print_a_line (current_line, current_file)
 
-current_line = current_line + 1
+current_line += 1
 #print second line, as this is the position nof cursor 
 print_a_line (current_line, current_file)
 
-current_line = current_line + 1
+current_line += 1
 #print third line 
 print_a_line (current_line, current_file)
