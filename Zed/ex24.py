@@ -4,8 +4,8 @@ print ('You\'d need to know \'bout escapes with \\ that do \n newlines and \t ta
 poem = """
 \tThe lovely world 
 with logic so firmly planted
-cannot doscern \n the needs of love
-nor comprehand passion from intuition
+cannot discern \n the needs of love
+nor comprehend passion from intuition
 and reuires and explanation
 \n\t\twhere there is none.
 """
